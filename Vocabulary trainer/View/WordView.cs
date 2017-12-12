@@ -59,7 +59,7 @@ namespace Vocabulary_trainer.View
         {
 
             //correct answer
-            if (textBox1.Text.toUpperCase().Equals(modellesson.WordTo[number].toUpperCase()))
+            if (textBox1.Text.ToUpper().Equals(modellesson.WordTo[number].ToUpper()))
                 {
                     right++;
                     total++;

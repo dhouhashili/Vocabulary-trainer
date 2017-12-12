@@ -74,3 +74,10 @@ C:\Users\amine\Desktop\dadou - Copie\Vocabulary trainer\obj\Debug\Vocabulary tra
 C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\bin\Debug\Vocabulary trainer.exe.config
 C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary trainer.exe
 C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary trainer.pdb
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary trainer.csprojResolveAssemblyReference.cache
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary_trainer.Properties.Resources.resources
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary_trainer.View.LessonView.resources
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary_trainer.View.WordView.resources
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary trainer.csproj.GenerateResource.Cache
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\bin\Debug\Vocabulary trainer.exe
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\bin\Debug\Vocabulary trainer.pdb
