@@ -71,3 +71,6 @@ C:\Users\amine\Desktop\dadou - Copie\Vocabulary trainer\obj\Debug\Vocabulary_tra
 C:\Users\amine\Desktop\dadou - Copie\Vocabulary trainer\obj\Debug\Vocabulary trainer.csproj.GenerateResource.Cache
 C:\Users\amine\Desktop\dadou - Copie\Vocabulary trainer\obj\Debug\Vocabulary trainer.exe
 C:\Users\amine\Desktop\dadou - Copie\Vocabulary trainer\obj\Debug\Vocabulary trainer.pdb
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\bin\Debug\Vocabulary trainer.exe.config
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary trainer.exe
+C:\Users\amine\Downloads\Vocabulary-trainer-master\Vocabulary-trainer\Vocabulary trainer\obj\Debug\Vocabulary trainer.pdb
